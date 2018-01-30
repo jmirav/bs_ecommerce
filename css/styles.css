@@ -1,6 +1,10 @@
 a.nav-item {
   text-decoration: none;
-  color: white!important;
+  color: white;
+}
+
+a.nav-item:hover {
+  color: gray;
 }
 
 .navbar-brand {
@@ -28,7 +32,7 @@ h3 {
   padding: 20px 20px;
 }
 
-.row .col-4 {
+.row .col-md-4 {
   padding: 20px 36px;
 }
 
