@@ -1,0 +1,45 @@
+a.nav-item {
+  text-decoration: none;
+  color: white!important;
+}
+
+.navbar-brand {
+  padding: 0 20px;
+}
+
+.container-fluid {
+  margin: 40px;
+}
+
+.input-group {
+  padding: 20px 20px;
+}
+
+h3 {
+  padding: 0px 20px;
+}
+
+.list-group {
+  padding: 0px 20px;
+  margin-left: 20px;
+}
+
+.carousel.slide {
+  padding: 20px 20px;
+}
+
+.row .col-4 {
+  padding: 20px 36px;
+}
+
+#myTab {
+  margin-top: 20px;
+}
+
+#myTabContent {
+  margin: 20px;
+}
+
+#exampleTextarea {
+  margin-top: 20px;
+}
